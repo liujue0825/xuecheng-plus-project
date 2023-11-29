@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * </p>
  *
  * @author itcast
- * @since 2022-10-07
+ * @since 2023-02-11
  */
 public interface TeachplanMediaService extends IService<TeachplanMedia> {
 
