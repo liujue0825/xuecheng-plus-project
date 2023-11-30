@@ -20,14 +20,13 @@ import java.util.List;
 /**
  * @author liujue
  * @version 1.0
- * @description: TODO
+ * @description: course_base表的Mapper测试
  * @date 2023/11/29 20:09
  */
 @SpringBootTest
 class CourseBaseMapperTests {
 
-    // @Resource
-    @Autowired
+    @Resource
     CourseBaseMapper courseBaseMapper;
 
     @Test
